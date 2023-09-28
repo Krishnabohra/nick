@@ -7,13 +7,13 @@ bannerType: "color"
 # either provide a color inside quotes or a path to an image (external links are supported)
 banner: "#d0cdc3"
 # User avatar to display, can be external link or a path to an image from public folder
-avatar: "https://cdn.discordapp.com/avatars/418306434317680641/b2dbf8037d99af65706882bbdf6390df.png"
+avatar: "https://images-ext-1.discordapp.net/external/xzkEzTVOrRRGMxIgCiQU38OxXSKR7uhUjsAnf0FPNmM/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/810352682823843861/a_35880cc6935bb50b862662e10448a819.gif"
 # Discord custom nickname set above
-displayName: "Domin"
+displayName: "NICK"
 # Username on discord, follows the case you set, won't track your Discord account e.g. "Domin#2874" or "dominnya"
-username: "dominnya"
+username: "~ 𝓝𝓲𝓬𝓴_xD"
 # Discord status, can be "online-mobile", "online", "idle", "do-not-disturb", "invisible" or "streaming"
-status: "online"
+status: "streaming"
 # Badges next to avatar, some badges need metadata such as "date" or "username"
 # all names are available at public/badges/margins folder
 badges:
@@ -23,7 +23,7 @@ badges:
   # "nitro":
   #   date: "13 May 2020"
   "legacy-username":
-    username: "Domin#2874"
+    username: ".nick_xd"
 # Roles in profile: Key name stands for the label, value is the color
 roles:
   "Fullstack Web Developer": "#006f72"
@@ -52,9 +52,8 @@ connections:
 ---
 
 <!-- Your About Me section -->
-
-Hi, I'm an independent web developer based in Kazan, Russia.
-
-I mostly work with [frontend web development](https://domin.pro), designing user interfaces and improving user experience. My passion is tech so most of the projects I work on are open-source. Some projects are meant to automate my life, some are meant to express my obsession with art.
-
-I'm interested in gaming, studying and experimenting with web design.
+Email: discordofficial853@gmail.com
+Project = lock n Loaded bot 6k+ server
+              = Dranzer bot 1k+ server 
+            = Alice bot 800 server
+          = many more other projects
